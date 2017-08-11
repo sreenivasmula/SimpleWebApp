@@ -1,0 +1,14 @@
+/.classpath
+
+/.project
+
+/.settings
+
+/build/classes/com/sreeni/simplewebapp/beans
+
+/build/classes/com/sreeni/simplewebapp/conn
+/build/classes/com/sreeni/simplewebapp/servlet
+
+/build/classes/com/sreeni/simplewebapp/filter
+
+/build/classes/com/sreeni/simplewebapp/utils
